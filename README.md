@@ -1,6 +1,5 @@
----
-
 # **Q&A Hub: Simplify Your Document Searches** 📚🔍
+---
 
 Welcome to **Q&A Hub**, a versatile tool designed to streamline your search process across various data formats such as images, text files, PDFs, and CSV files. With **Q&A Hub**, you can ask questions and find accurate answers within your documents effortlessly.
 
